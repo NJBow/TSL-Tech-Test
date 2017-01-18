@@ -1,11 +1,11 @@
 # TSL-Tech-Test
 
 Technologies used:
-Ruby
-Sinatra
-Bootstrapper
-PostgreSQL
-Datamapper
+Ruby,
+Sinatra,
+Bootstrapper,
+PostgreSQL,
+Datamapper.
 
 Overview:
 - time: 2 hours
