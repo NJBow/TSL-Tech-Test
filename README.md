@@ -4,8 +4,7 @@ Technologies used:
 Ruby,
 Sinatra,
 Bootstrapper,
-PostgreSQL,
-Datamapper.
+PostgreSQL.
 
 Overview:
 - time: 2 hours
